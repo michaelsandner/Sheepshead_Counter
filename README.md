@@ -1,16 +1,7 @@
 # sheepshead_counter
 
-A new Flutter project.
+A point counter for sheepshead games.
 
-## Getting Started
+This project is to count the points of the different players of a sheepshead game so that no manually written point list is needed anymore
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Web version of this project](https://michaelsandner.github.io/Sheepshead_Counter/#/)
