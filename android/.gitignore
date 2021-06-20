@@ -1,8 +1,10 @@
-gradle-wrapper.jar
+# Disable this line so that appcenter can find the android project
+# gradle-wrapper.jar
 /.gradle
 /captures/
-/gradlew
-/gradlew.bat
+# Disable this lines so that appcenter can find the android project
+# /gradlew
+# /gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
 
